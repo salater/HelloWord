@@ -1,10 +1,17 @@
-public class Main {
+public class MainExtended {
      public static void main(String[] args) {
-            String myName = "Maciej";
-            int myAge = 22;
-            double height = 1.78;
-            char carClass = 'A';
-            boolean isGoodProgrammer = true;
+            String name = "Wojciech";
+            int age = 42;
+            double weight = 90.5;
+            char team = 'L';
+            boolean haveDog = false;
+            long phoneNumber = 605000666;
+            System.out.println(name);
+            System.out.println(age);
+            System.out.println(weight);
+            System.out.println(team);
+            System.out.println(haveDog);
+            System.out.println(phoneNumber);
         }
     }
 
