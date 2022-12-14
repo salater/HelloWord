@@ -1,6 +1,6 @@
 public class FirstClass {
 public static void main(String[] args) {
-    Notebook notebook = new Notebook(600, 1000, 2000 );
+    Notebook notebook = new Notebook(605, 1000, 2000 );
     System.out.println("notebook weight/price/years: " + notebook.weight + "/" + notebook.price +"/" +notebook.year);
     notebook.checkPrice();
     notebook.checkWeight();
