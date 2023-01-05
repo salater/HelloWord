@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/kodilla-intro" />
+            <option value="$PROJECT_DIR$/kodilla-intro/src" />
+            <option value="$PROJECT_DIR$/kodilla-intro/src/main" />
+            <option value="$PROJECT_DIR$/kodilla-intro/src/main/roboczy" />
           </set>
         </option>
       </GradleProjectSettings>
